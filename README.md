@@ -1,19 +1,21 @@
-## Lista de Tarefas App
+# APP - ADS
 
-Este é um aplicativo simples de lista de tarefas para Android desenvolvido em Kotlin, utilizando SQLite para armazenamento de dados.
+Aplicativo simpes criado para matéria de programação para dispositivos móveis
 
-## Funcionalidades
+
+## Funções
 
 - Adicionar, editar e excluir tarefas.
 - Armazenamento de dados local usando SQLite.
 - Interface de usuário intuitiva e amigável.
 
-![Screenshot_20240117_090202](https://github.com/felipe-matos/ListadeTarefasApp/assets/70587403/1b397899-cdd8-4160-8f97-2a64da1938aa)
+## Imagens e vídeos
 
-![Screenshot_20240702_221752](https://github.com/felipe-matos/ListadeTarefasApp/assets/70587403/f42ec78d-a046-4044-9f46-086d113f03c7)
-
-![Screenshot_20240117_090233](https://github.com/felipe-matos/ListadeTarefasApp/assets/70587403/67f8660d-bdc0-4a75-a32d-e078b30d4663)
-
+![Screenshot_20241126-204326_Tarefas Dev.jpg](..%2F..%2FDesktop%2FProjeto%20FACULDADE%2FScreenshot_20241126-204326_Tarefas%20Dev.jpg)
+![Screenshot_20241126-204340_Tarefas Dev.jpg](..%2F..%2FDesktop%2FProjeto%20FACULDADE%2FScreenshot_20241126-204340_Tarefas%20Dev.jpg)
+![Screenshot_20241126-204350_Tarefas Dev.jpg](..%2F..%2FDesktop%2FProjeto%20FACULDADE%2FScreenshot_20241126-204350_Tarefas%20Dev.jpg)
+![Screenshot_20241126-204319_Tarefas Dev.jpg](..%2F..%2FDesktop%2FProjeto%20FACULDADE%2FScreenshot_20241126-204319_Tarefas%20Dev.jpg)
+[Recorder_26112024_204110.mp4](..%2F..%2FDesktop%2FProjeto%20FACULDADE%2FRecorder_26112024_204110.mp4)
 # Arquitetura e Tecnologias
 - Kotlin
 - Android
